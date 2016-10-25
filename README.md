@@ -15,3 +15,5 @@ badgeTarget.Show();
 
  - Write a Demo
  - Add Code Comments
+ - Improve functionality
+ - Improve documentation
