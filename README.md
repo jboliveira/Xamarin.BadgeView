@@ -2,7 +2,7 @@
 
 `BadgeView` component for `Xamarin.Android`.
 
-Usage: 
+## Usage
 
 ```csharp
 var btnSample = FindViewById<ImageButton>(Resource.Id.btn_sample);
